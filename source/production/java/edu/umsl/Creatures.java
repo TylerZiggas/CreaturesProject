@@ -3,7 +3,7 @@ package edu.umsl;
 import java.util.List;
 import java.util.ArrayList;
 
-interface Reproduction{ // Reproduction interface
+interface Reproduction { // Reproduction interface
     String modeOfReproduction();
 }
 abstract class Creatures {
